@@ -1,3 +1,6 @@
+
+<img src="https://gifdb.com/homer-simpson" alt="GIF animado" width="300" height="200">
+
 ### Hi there 👋
 🇪🇸 Soy un estudiante arequipeño al cual le gusta programar, Comence a estudiar Ingeneria de Telecomunicaciones por que desde muy pequeño me di cuenta que tenia una pasion muy grande por saber como pasaban las cosas, un sato curioso de mi es que cuando estoy aburrido me da por aprender cosas nuevas.
 
