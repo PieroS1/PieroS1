@@ -1,10 +1,11 @@
 <img class = "center "src="https://miro.medium.com/v2/resize:fit:700/0*C-cPP9D2MIyeexAT.gif" alt="Gif animado">
+<style>
 .center{
       display: block;
       margin-left: auto;
       margin-right: auto;
 }
-
+</style>
 ### Hi there 👋
 🇪🇸 Soy un estudiante arequipeño al cual le gusta programar, Comence a estudiar Ingeneria de Telecomunicaciones por que desde muy pequeño me di cuenta que tenia una pasion muy grande por saber como pasaban las cosas, un sato curioso de mi es que cuando estoy aburrido me da por aprender cosas nuevas.
 
