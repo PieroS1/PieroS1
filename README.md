@@ -1,4 +1,4 @@
-<img class = "center "src="https://miro.medium.com/v2/resize:fit:700/0*C-cPP9D2MIyeexAT.gif" alt="Gif animado">
+<img class ="center "src="https://miro.medium.com/v2/resize:fit:700/0*C-cPP9D2MIyeexAT.gif" alt="Gif animado">
 <style>
 .center{
       display: block;
