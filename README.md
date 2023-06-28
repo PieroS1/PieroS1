@@ -1,5 +1,4 @@
-<img src="![imagen](https://github.com/PieroS1/PieroS1/assets/120518731/fdbff868-349a-44eb-9ce0-27ae5413b437)
-" alt="Gif animado">
+<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="Gif animado">
 <body style="background-image: url('https://cdn.pixabay.com/photo/2017/11/16/09/32/matrix-2953869_960_720.jpg'); background-size: cover;">
 
 ### Hi there 👋
